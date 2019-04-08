@@ -1,0 +1,5 @@
+{
+      #"contributors": "https://api.github.com/repos/ansible/molecule/.github/contributors"
+      "contributors": ["YourUsername"]
+      #"recheckComment": "..."
+}
