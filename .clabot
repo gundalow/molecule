@@ -1,3 +1,4 @@
 {
-  "contributors": "https://api.github.com/repos/gundalow/molecule/contents/.github/contributors"
+  "contributors": "https://api.github.com/repos/gundalow/molecule/contents/.github/contributors",
+  "recheckComment": "rerun_cla",
 }
